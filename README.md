@@ -1,5 +1,5 @@
 # Python-Useful-Resources
-All useful resource links for common desktop (hi-language) programming
+All useful resource links for Python programming
 
 # Python
 Python Download : <a href="https://www.python.org/downloads/" target="_blank">Python</a><br/>
